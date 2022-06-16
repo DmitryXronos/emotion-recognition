@@ -8,8 +8,10 @@
 ![KNN](https://github.com/DmitryXronos/emotion-recognition/blob/develop/Images/knn.png)
 ## Логистическая регрессия
 Результаты обучения модели в паре с PCA представлены на рисунке ниже. Лучшее качество предсказаний - 58%.
-![KNN](https://github.com/DmitryXronos/emotion-recognition/blob/develop/Images/lr.png)
+![Logistic regression](https://github.com/DmitryXronos/emotion-recognition/blob/develop/Images/lr.png)
 ## Многослойный персептрон
+Результаты обучения модели представлены на рисунке ниже. Лучшее качество предсказаний - 82%.
+![MLP](https://github.com/DmitryXronos/emotion-recognition/blob/develop/Images/mlp.png)
 ## Использованное программное обеспечение
 Разработка велась при помощи IDE _DataSpell 2022.1.1_ и следующих технологий:
 - Python - 3.10
