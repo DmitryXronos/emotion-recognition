@@ -6,6 +6,8 @@ LabelsPath = os.path.normpath(f"{os.getcwd()}{os.sep}{os.pardir}{os.sep}Results{
 
 FeaturesPath = os.path.normpath(f"{os.getcwd()}{os.sep}{os.pardir}{os.sep}Results{os.sep}Features.csv")
 
+ImagesPath = os.path.normpath(f"{os.getcwd()}{os.sep}{os.pardir}{os.sep}Images")
+
 
 def extract_label_from_filename(file_name):
     """
