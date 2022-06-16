@@ -7,13 +7,14 @@
 Результаты обучения модели в паре с PCA представлены на рисунке ниже. Лучшее качество предсказаний - 52%.
 ![KNN](https://github.com/DmitryXronos/emotion-recognition/blob/develop/Images/knn.png)
 ## Логистическая регрессия
-Результаты обучения модели в паре с PCA представлены на рисунке ниже. Лучшее качество предсказаний - 57%.
+Результаты обучения модели в паре с PCA представлены на рисунке ниже. Лучшее качество предсказаний - 58%.
 ![KNN](https://github.com/DmitryXronos/emotion-recognition/blob/develop/Images/lr.png)
 ## Многослойный персептрон
 ## Использованное программное обеспечение
-- Python
-- Scikit-learn
-- Numpy
-- Pandas
-- Matplotlib
-- Seaborn
+Разработка велась при помощи IDE _DataSpell 2022.1.1_ и следующих технологий:
+- Python - 3.10
+- Scikit-learn - 1.1.0
+- Numpy - 1.22.3
+- Pandas - 1.4.2
+- Matplotlib - 3.5.2
+- Seaborn - 0.11.2
